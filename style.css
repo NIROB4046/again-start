@@ -17,7 +17,7 @@ padding: 10px;
 border-radius: 0px 40px 0px 40px;
 background-image: url(photo/Screenshot\ 2025-05-21\ 131409.png);
 background-repeat: no-repeat;
-background-size: 100%;
+background-size:cover ;
 }
 .nirobc{
 color: hotpink;
